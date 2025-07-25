@@ -1,0 +1,1190 @@
+{
+  "server": {
+    "id": 8,
+    "name": "Detectives",
+    "serverId": "825137602553708544",
+    "roleTagId": null,
+    "completedTasksChannelId": null
+  },
+  "summary": {
+    "totalActivities": 29,
+    "messages": 21,
+    "reactions": 8,
+    "replies": 0,
+    "taskVerifications": 0,
+    "totalTaskReports": 0,
+    "pendingTasks": 0,
+    "verifiedTasks": 0,
+    "avgResponseTime": 3,
+    "responseTrackingCount": 6
+  },
+  "dailyStats": {
+    "activitiesByDay": {
+      "2025-07-25": {
+        "messages": 0,
+        "reactions": 0,
+        "replies": 0,
+        "task_verification": 0,
+        "message": 5
+      },
+      "2025-07-24": {
+        "messages": 0,
+        "reactions": 0,
+        "replies": 0,
+        "task_verification": 0,
+        "message": 16,
+        "reaction": 8
+      }
+    },
+    "avgResponseTimeByDay": {
+      "2025-07-24": 3
+    }
+  },
+  "fullData": {
+    "activities": [
+      {
+        "id": 39,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "🤖│bot-logs",
+        "messageId": "1398094397068935249",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-25T00:08:00.015Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 40,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "🤖│bot-logs",
+        "messageId": "1398094395106136155",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-25T00:07:59.553Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 41,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "🤖│bot-logs",
+        "messageId": "1398094393331814451",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-25T00:07:59.124Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 42,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "🤖│bot-logs",
+        "messageId": "1398094390739603597",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-25T00:07:58.532Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 43,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "🤖│bot-logs",
+        "messageId": "1398094333407920168",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-25T00:07:44.843Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 48,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050782724624387",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:44.003Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 49,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050782724624387",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.890Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 50,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050786356891859",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.778Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 51,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050786356891859",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.665Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 52,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050792165998752",
+        "content": "+",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.552Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 53,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050792165998752",
+        "content": "+",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.439Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 54,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.327Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 55,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.214Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 56,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050975490506894",
+        "content": "<@&1397531360180047882> test",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:43.099Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 57,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050975490506894",
+        "content": "<@&1397531360180047882> test",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:42.986Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 58,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:42.873Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 59,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T23:01:42.761Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 66,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:15:29.749Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 65,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:15:29.749Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 68,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050975490506894",
+        "content": "<@&1397531360180047882> test",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:15:27.792Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 67,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050975490506894",
+        "content": "<@&1397531360180047882> test",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:15:27.792Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 69,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:45.751Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 70,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "reaction",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": null,
+        "content": null,
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:45.751Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 72,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050792165998752",
+        "content": "+",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:43.507Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 71,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050792165998752",
+        "content": "+",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:43.507Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 74,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050786356891859",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:42.219Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 73,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050786356891859",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:42.219Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 76,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050782724624387",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:41.362Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      },
+      {
+        "id": 75,
+        "curatorId": 1,
+        "serverId": 8,
+        "type": "message",
+        "channelId": "1250796228032200859",
+        "channelName": "Unknown",
+        "messageId": "1398050782724624387",
+        "content": "1",
+        "reactionEmoji": null,
+        "targetMessageId": null,
+        "targetMessageContent": null,
+        "timestamp": "2025-07-24T21:14:41.362Z",
+        "curator": {
+          "id": 1,
+          "discordId": "318071839329091584",
+          "name": "Magic",
+          "factions": [
+            "detectives",
+            "sang",
+            "lspd",
+            "fib"
+          ],
+          "curatorType": "government",
+          "subdivision": null,
+          "isActive": true,
+          "createdAt": "2025-07-25T01:12:39.940Z"
+        },
+        "server": {
+          "id": 8,
+          "serverId": "825137602553708544",
+          "name": "Detectives",
+          "roleTagId": null,
+          "completedTasksChannelId": null,
+          "isActive": true
+        }
+      }
+    ],
+    "taskReports": [],
+    "responseTracking": [
+      {
+        "id": 37,
+        "serverId": 8,
+        "curatorId": 1,
+        "mentionMessageId": "1398050975490506894",
+        "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+        "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+        "responseTimestamp": "2025-07-24T21:15:29.688Z",
+        "responseType": "reaction",
+        "responseTimeSeconds": 3
+      },
+      {
+        "id": 42,
+        "serverId": 8,
+        "curatorId": 1,
+        "mentionMessageId": "1398050975490506894",
+        "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+        "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+        "responseTimestamp": "2025-07-24T21:15:29.688Z",
+        "responseType": "reaction",
+        "responseTimeSeconds": 3
+      },
+      {
+        "id": 39,
+        "serverId": 8,
+        "curatorId": 1,
+        "mentionMessageId": "1398050975490506894",
+        "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+        "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+        "responseTimestamp": "2025-07-24T21:15:29.688Z",
+        "responseType": "reaction",
+        "responseTimeSeconds": 3
+      },
+      {
+        "id": 40,
+        "serverId": 8,
+        "curatorId": 1,
+        "mentionMessageId": "1398050975490506894",
+        "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+        "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+        "responseTimestamp": "2025-07-24T21:15:29.688Z",
+        "responseType": "reaction",
+        "responseTimeSeconds": 3
+      },
+      {
+        "id": 41,
+        "serverId": 8,
+        "curatorId": 1,
+        "mentionMessageId": "1398050975490506894",
+        "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+        "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+        "responseTimestamp": "2025-07-24T21:15:29.688Z",
+        "responseType": "reaction",
+        "responseTimeSeconds": 3
+      },
+      {
+        "id": 38,
+        "serverId": 8,
+        "curatorId": 1,
+        "mentionMessageId": "1398050975490506894",
+        "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+        "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+        "responseTimestamp": "2025-07-24T21:15:29.688Z",
+        "responseType": "reaction",
+        "responseTimeSeconds": 3
+      }
+    ]
+  },
+  "exportedAt": "2025-07-25T01:45:49.838Z"
+}

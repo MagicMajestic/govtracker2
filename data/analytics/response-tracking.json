@@ -1,0 +1,233 @@
+[
+  {
+    "id": 22,
+    "serverId": 9,
+    "curatorId": 1,
+    "mentionMessageId": "1398087369596604496",
+    "mentionTimestamp": "2025-07-24T23:40:04.119Z",
+    "responseMessageId": "reaction_1398087369596604496_318071839329091584",
+    "responseTimestamp": "2025-07-24T23:40:10.799Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 7
+  },
+  {
+    "id": 28,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "reaction_1398061381219123304_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:56:51.601Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 4
+  },
+  {
+    "id": 23,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "reaction_1398061381219123304_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:56:51.601Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 4
+  },
+  {
+    "id": 29,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "reaction_1398061381219123304_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:56:51.601Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 4
+  },
+  {
+    "id": 24,
+    "serverId": 9,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "1398061564611371038",
+    "responseTimestamp": "2025-07-24T21:56:55.992Z",
+    "responseType": "message",
+    "responseTimeSeconds": 7
+  },
+  {
+    "id": 25,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "reaction_1398061381219123304_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:56:51.601Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 4
+  },
+  {
+    "id": 27,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "reaction_1398061381219123304_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:56:51.601Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 4
+  },
+  {
+    "id": 26,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398061381219123304",
+    "mentionTimestamp": "2025-07-24T21:56:48.007Z",
+    "responseMessageId": "reaction_1398061381219123304_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:56:51.601Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 4
+  },
+  {
+    "id": 34,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "reaction_1398054939292598334_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:31:33.652Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 22
+  },
+  {
+    "id": 30,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "reaction_1398054939292598334_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:31:33.652Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 22
+  },
+  {
+    "id": 31,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "reaction_1398054939292598334_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:31:33.652Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 22
+  },
+  {
+    "id": 32,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "reaction_1398054939292598334_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:31:33.652Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 22
+  },
+  {
+    "id": 33,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "reaction_1398054939292598334_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:31:33.652Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 22
+  },
+  {
+    "id": 35,
+    "serverId": 19,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "reaction_1398054939292598334_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:31:33.652Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 22
+  },
+  {
+    "id": 36,
+    "serverId": 9,
+    "curatorId": 1,
+    "mentionMessageId": "1398054939292598334",
+    "mentionTimestamp": "2025-07-24T21:31:12.132Z",
+    "responseMessageId": "1398054964693983324",
+    "responseTimestamp": "2025-07-24T21:31:48.372Z",
+    "responseType": "message",
+    "responseTimeSeconds": 36
+  },
+  {
+    "id": 37,
+    "serverId": 8,
+    "curatorId": 1,
+    "mentionMessageId": "1398050975490506894",
+    "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+    "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:15:29.688Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 3
+  },
+  {
+    "id": 42,
+    "serverId": 8,
+    "curatorId": 1,
+    "mentionMessageId": "1398050975490506894",
+    "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+    "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:15:29.688Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 3
+  },
+  {
+    "id": 39,
+    "serverId": 8,
+    "curatorId": 1,
+    "mentionMessageId": "1398050975490506894",
+    "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+    "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:15:29.688Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 3
+  },
+  {
+    "id": 40,
+    "serverId": 8,
+    "curatorId": 1,
+    "mentionMessageId": "1398050975490506894",
+    "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+    "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:15:29.688Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 3
+  },
+  {
+    "id": 41,
+    "serverId": 8,
+    "curatorId": 1,
+    "mentionMessageId": "1398050975490506894",
+    "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+    "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:15:29.688Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 3
+  },
+  {
+    "id": 38,
+    "serverId": 8,
+    "curatorId": 1,
+    "mentionMessageId": "1398050975490506894",
+    "mentionTimestamp": "2025-07-24T21:15:27.088Z",
+    "responseMessageId": "reaction_1398050975490506894_318071839329091584",
+    "responseTimestamp": "2025-07-24T21:15:29.688Z",
+    "responseType": "reaction",
+    "responseTimeSeconds": 3
+  }
+]

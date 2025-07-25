@@ -1,0 +1,36 @@
+{
+  "curator": {
+    "id": 4,
+    "name": "Test",
+    "discordId": "-",
+    "factions": [
+      "detectives"
+    ],
+    "curatorType": "government",
+    "subdivision": "government"
+  },
+  "summary": {
+    "totalActivities": 0,
+    "messages": 0,
+    "reactions": 0,
+    "replies": 0,
+    "taskVerifications": 0,
+    "totalTaskReports": 0,
+    "verifiedTasks": 0,
+    "avgResponseTime": null,
+    "responseTrackingCount": 0
+  },
+  "dailyStats": {
+    "activitiesByDay": {},
+    "avgResponseTimeByDay": {}
+  },
+  "serverStats": {
+    "activitiesByServer": {}
+  },
+  "fullData": {
+    "activities": [],
+    "taskReports": [],
+    "responseTracking": []
+  },
+  "exportedAt": "2025-07-24T22:35:46.981Z"
+}

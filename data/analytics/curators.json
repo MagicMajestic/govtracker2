@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "discordId": "318071839329091584",
+    "name": "Magic",
+    "factions": [
+      "detectives",
+      "sang",
+      "lspd",
+      "fib"
+    ],
+    "curatorType": "government",
+    "subdivision": null,
+    "isActive": true,
+    "createdAt": "2025-07-25T01:12:39.940Z"
+  }
+]
